@@ -1,23 +1,31 @@
-# 🌐 Keyce Informatique — Projet Versionning Git & GitHub
+# ✨ Keyce Informatique — Projet Git & GitHub Premium
 
-Ce projet est réalisé dans le cadre du **cours de versionning** à **Keyce Informatique**.  
-Il illustre les bonnes pratiques de **collaboration Git**, la **création de branches**, et la **publication de pages web via GitHub Pages**.
+> Une vitrine élégante du savoir-faire des étudiants Keyce en gestion de versions et collaboration.
 
----
-
-## 🚀 Objectifs pédagogiques
-- Apprendre à utiliser **Git** et **GitHub** efficacement.  
-- Savoir **créer, modifier et fusionner** des branches.  
-- Mettre en ligne un projet statique avec **GitHub Pages**.  
-- Découvrir le **workflow collaboratif** : *clone → branche → commit → push → pull request.*
+![Preview](https://img.shields.io/badge/HTML5-Project-orange?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-Design-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)
 
 ---
 
-## 💡 Technologies utilisées
-- **HTML5**
-- **CSS3**
-- (Optionnel) Hébergement via **GitHub Pages**
+## 🌍 Présentation
+Ce projet met en avant l’élégance et la maîtrise technique des étudiants de **Keyce Informatique**.  
+Réalisé dans le cadre du cours de **Versionning Git & GitHub**, il démontre :
+- la capacité à travailler en équipe,
+- la gestion propre des branches et commits,
+- la mise en ligne de projets professionnels via **GitHub Pages**.
 
 ---
 
-## 📁 Structure du projet
+## 🧠 Objectifs pédagogiques
+- Utiliser Git pour suivre les changements de code.
+- Travailler efficacement en équipe via les branches.
+- Publier un site professionnel sur GitHub Pages.
+
+---
+
+## 🚀 Lancer le projet
+```bash
+git clone https://github.com/<ton-utilisateur>/<ton-repo>.git
+cd <ton-repo>
+start index.html
